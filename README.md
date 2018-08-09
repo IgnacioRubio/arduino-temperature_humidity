@@ -9,7 +9,7 @@ This project is made to storage all Arduino projects using diferents Temperature
   * [OneWire](http://www.arduinolibraries.info/libraries/one-wire) - Access 1-wire temperature sensors, memory and other chips.
   
 - DHT11 sensor (temperature and humidity)
- * [DHT sensor library](https://www.arduinolibraries.info/libraries/dht-sensor-library) - Arduino library for DHT11, DHT22, etc Temp & Humidity Sensors.
+  * [DHT sensor library](https://www.arduinolibraries.info/libraries/dht-sensor-library) - Arduino library for DHT11, DHT22, etc Temp & Humidity Sensors.
 
 
 ## Built With
