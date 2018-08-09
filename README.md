@@ -1,10 +1,10 @@
-# Arduino Temperature
+# Arduino Temperature and Humidity
 
-This project is made to storage all Arduino projects using diferents Temperature features or types.
+This project is made to storage all Arduino projects using diferents Temperature and Humidity features or types.
 
 ## Libraries
 
-- DS18B20 module
+- DS18B20 module (only temperature)
   * [DallasTemperature](http://www.arduinolibraries.info/libraries/dallas-temperature) - Arduino Library for Dallas Temperature ICs.
   * [OneWire](http://www.arduinolibraries.info/libraries/one-wire) - Access 1-wire temperature sensors, memory and other chips.
 
